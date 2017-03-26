@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 26 Feb 2017 13:56:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.5.2-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.5.2-1) unstable; urgency=low
+ .
+   * Updating Utilities to determine CHIP Pro better
+   * Updating Utilities to only run CHIP appropriate code on the CHIP and not CHIP Pro
+   * Updated README
+Checksums-Sha1:
+ d8dcf6ea332b22144934a2d5b9e409b9ef452115 54218 python-chip-io_0.5.2-1_armhf.deb
+ 002cf9f2c50bc130b8b5b525de5e4740492a1f65 53952 python3-chip-io_0.5.2-1_armhf.deb
+Checksums-Sha256:
+ affe7a2c6fae9b8371b614afa8905e426281b71b0a2afe85ff8e2e6ce7b29269 54218 python-chip-io_0.5.2-1_armhf.deb
+ 5b49f064890d33c2e690c7814af680b45754ae6a7785946759ec84953162d5d2 53952 python3-chip-io_0.5.2-1_armhf.deb
+Files:
+ 06806019547486df74002ed528034259 54218 python optional python-chip-io_0.5.2-1_armhf.deb
+ 1e0d91a5aeaf5ba338ba71464fef4a70 53952 python optional python3-chip-io_0.5.2-1_armhf.deb

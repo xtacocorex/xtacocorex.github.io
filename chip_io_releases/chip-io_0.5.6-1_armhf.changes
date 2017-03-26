@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 20 Mar 2017 23:04:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.5.6-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.5.6-1) unstable; urgency=low
+ .
+   * Fix for Issue #63 where re-setting up a pin wasn't lining up with RPi.GPIO standards. Calling setup after the first time will now update direction.
+   * README updates to point out the direction() function since that was missing
+Checksums-Sha1:
+ abfc01bf833980f4071cdaf9d2a6630bc88ffcb4 55238 python-chip-io_0.5.6-1_armhf.deb
+ 06ae164ad8cfee33f1b720c69af9625764a94673 54920 python3-chip-io_0.5.6-1_armhf.deb
+Checksums-Sha256:
+ 6e1fce46a0ecaa5f6c7d920f29da04a834d30fdb6d7219c0353d1a0f4c8954e9 55238 python-chip-io_0.5.6-1_armhf.deb
+ 64dd5433cbed21c83cec3074f8d3db63c925095a764ecc4b4c4d4e4b0e44b157 54920 python3-chip-io_0.5.6-1_armhf.deb
+Files:
+ 7eefe66bb6fc1d628d6bf06133117d89 55238 python optional python-chip-io_0.5.6-1_armhf.deb
+ 297dea5a624b59d7ef0f245700d0e0a1 54920 python optional python3-chip-io_0.5.6-1_armhf.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 6 Mar 2017 17:02:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.5.5-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.5.5-1) unstable; urgency=low
+ .
+   * Fix for Issue #62 where using alternate name of an XIO would cause a segfault due to trying to set pull up/down resistor setting
+Checksums-Sha1:
+ c061848d6fcf73cdeaf5114a34d1eec279b3c83c 54786 python-chip-io_0.5.5-1_armhf.deb
+ 97ed82225417b5c3428bd51afc7a52437c07a0f9 54476 python3-chip-io_0.5.5-1_armhf.deb
+Checksums-Sha256:
+ 3fc628df820819fc6953445656c3a6d424756d09d5fc32f0e2e1ee84d13d0fb6 54786 python-chip-io_0.5.5-1_armhf.deb
+ cd99ac2854104b585c67d486809fafdc8158bd1c854dbbeb87f914bfa7a8fb47 54476 python3-chip-io_0.5.5-1_armhf.deb
+Files:
+ ea0ef53d16821a78dc029d4129490ceb 54786 python optional python-chip-io_0.5.5-1_armhf.deb
+ 5c1ced10852da228121dfe9a3066d464 54476 python optional python3-chip-io_0.5.5-1_armhf.deb
