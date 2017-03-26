@@ -23,5 +23,6 @@
     <li><a href="python3-chip-io_0.5.6-1_armhf.deb">python3-chip-io_0.5.6-1_armhf.deb</a></li>
     </ul>
     </div>
+    </div align="center"><a href="xtacocorex.github.io">home</a></div>
 </body>
 </html>
