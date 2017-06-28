@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 02 May 2017 22:43:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.5.8-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.5.8-1) unstable; urgency=low
+ .
+   * Added 3 pins for the CHIP Pro as allowable for setting callbacks and edge
+     detection to close out Issue #68
+Checksums-Sha1:
+ eff234d495c7fd818303ffd0fc2b6fdf11d71fc0 56198 python-chip-io_0.5.8-1_armhf.deb
+ 48893d8f3de9def09132e5bbe11f5ca67c279215 55886 python3-chip-io_0.5.8-1_armhf.deb
+Checksums-Sha256:
+ 89858f0c7c7b62f86aa9cc5bc1803eba85cae776aafa653516abbeea41a091f2 56198 python-chip-io_0.5.8-1_armhf.deb
+ 3f26c1ce67bf4d91b05f655e9c34796b3c490a019aabfb2029ae55d2d90a2f79 55886 python3-chip-io_0.5.8-1_armhf.deb
+Files:
+ d0a05e1b167285bcaa522ff85bb54f90 56198 python optional python-chip-io_0.5.8-1_armhf.deb
+ 56c5c047c23cf832d94b80c9feb8908e 55886 python optional python3-chip-io_0.5.8-1_armhf.deb

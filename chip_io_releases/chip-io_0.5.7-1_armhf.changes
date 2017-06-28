@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 01 May 2017 22:47:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.5.7-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.5.7-1) unstable; urgency=low
+ .
+   * Added the I2S pins on the CHIP Pro as GPIO capable
+   * Added per PWM/SoftPWM cleanup per Issue #64
+Checksums-Sha1:
+ 18deaa8854064734d2bab634e186f02ef3f1f79f 55956 python-chip-io_0.5.7-1_armhf.deb
+ 4c4c15116f4cd9c6113d405d148af9f84f38adc9 55672 python3-chip-io_0.5.7-1_armhf.deb
+Checksums-Sha256:
+ 6394b0e96338968e90e519a41ed4f5ac10144e91fc53c695ce937c7b321faacd 55956 python-chip-io_0.5.7-1_armhf.deb
+ 8a876300e8eabb4296797eb3f62de090d48ace2bef81dbadfa7a1212b31fb252 55672 python3-chip-io_0.5.7-1_armhf.deb
+Files:
+ 28c8b8fbb0ec91d12e83e9b86c3c23ed 55956 python optional python-chip-io_0.5.7-1_armhf.deb
+ 213c6eb8d1cac316f8452b4831fe80db 55672 python optional python3-chip-io_0.5.7-1_armhf.deb
