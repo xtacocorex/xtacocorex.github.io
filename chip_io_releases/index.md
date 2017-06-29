@@ -12,6 +12,7 @@
     <li><a href="python-chip-io_0.5.6-1_armhf.deb">python-chip-io_0.5.6-1_armhf.deb</a></li>
     <li><a href="python-chip-io_0.5.7-1_armhf.deb">python-chip-io_0.5.7-1_armhf.deb</a></li>
     <li><a href="python-chip-io_0.5.8-1_armhf.deb">python-chip-io_0.5.8-1_armhf.deb</a></li>
+    <li><a href="python-chip-io_0.5.9-1_armhf.deb">python-chip-io_0.5.9-1_armhf.deb</a></li>
     </ul>
     </div>
     <div align="left"><h3>Python 3</h3>
@@ -25,6 +26,7 @@
     <li><a href="python3-chip-io_0.5.6-1_armhf.deb">python3-chip-io_0.5.6-1_armhf.deb</a></li>
     <li><a href="python3-chip-io_0.5.7-1_armhf.deb">python3-chip-io_0.5.7-1_armhf.deb</a></li>
     <li><a href="python3-chip-io_0.5.8-1_armhf.deb">python3-chip-io_0.5.8-1_armhf.deb</a></li>
+    <li><a href="python3-chip-io_0.5.9-1_armhf.deb">python3-chip-io_0.5.9-1_armhf.deb</a></li>
     </ul>
     </div>
     <div align="center"><a href="xtacocorex.github.io">home</a></div>
