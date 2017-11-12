@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 12 Nov 2017 07:40:00 -0600
+Source: chip-io
+Binary: python-chip-io python3-chip-io
+Architecture: armhf
+Version: 0.7.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: Robert Wolterman <robert.wolterman@gmail.com>
+Changed-By: Robert Wolterman <robert.wolterman@gmail.com>
+Description:
+ python-chip-io - A module to control CHIP IO channels
+ python3-chip-io - A module to control CHIP IO channels
+Changes:
+ chip-io (0.7.1-1) unstable; urgency=low
+ .
+   * Merged PR#79 and#80
+   * Added logging to tell user of the 1 second sleep before retry on setting gpio direction
+Checksums-Sha1:
+ c1eec8c896516e5829987d719bec3b0391d65e64 58110 python-chip-io_0.7.1-1_armhf.deb
+ 2c25280835ad206920145d76add2c8da48e6fda1 58168 python3-chip-io_0.7.1-1_armhf.deb
+Checksums-Sha256:
+ 6a8738db67032164f10bd0f06a887efac58e921b91ae44811cde18511ab26865 58110 python-chip-io_0.7.1-1_armhf.deb
+ 5c051384f5dd14b498f72fc2ae3b056dd297b2317b83daf62e6771f4923e41d0 58168 python3-chip-io_0.7.1-1_armhf.deb
+Files:
+ 85cd942f2606e96522537e9915621dab 58110 python optional python-chip-io_0.7.1-1_armhf.deb
+ 1c74b09683103688ef3eaa2b08d35c59 58168 python optional python3-chip-io_0.7.1-1_armhf.deb
